@@ -5,8 +5,9 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on [REslava.Result nuget package result pattern + ASP.NET integration](https://github.com/reslava/nuget-package-reslava-result)
-- 🌱 I’m currently learning Funtional programming, Roslyn surce generators & analyzers, AI
-- 👯 I’m looking to collaborate on any idea that could be useful 
+- 🌱 I’m currently learning Funtional programming, Roslyn source generators & analyzers, AI
+- 👯 I’m looking to collaborate on any idea that could be useful
+- 🎮 I developed several 3D android / html games in Unity
 - 📫 How to reach me: rafeslava@hotmail.com
 - ⚡ Fun fact: in fact playing guitar is my real passon ;-)
 
