@@ -5,12 +5,10 @@
 
 ## Hi there, I am Rafa Eslava 👋
 
-- 🔭 I’m currently working on [REslava.Result nuget package result pattern + ASP.NET integration](https://github.com/reslava/nuget-package-reslava-result)
+- 🔭 I’m currently working on [REslava.Result](https://github.com/reslava/nuget-package-reslava-result) 
+(nuget package result pattern + ASP.NET integration with SmartEndpoints, fast APIs, no boilerplate)
 
 [![REslava.Result nuget package library implementing result pattern with SmartEndpoints](https://img.shields.io/badge/REslava.Result-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/yqyDwVNvH0c)
-
-
-
 - 🌱 I’m currently learning Funtional programming, Roslyn source generators & analyzers, AI
 - 👯 I’m looking to collaborate on any idea that could be useful
 - 🎮 I developed several 3D android / html games in Unity
