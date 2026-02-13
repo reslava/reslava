@@ -4,9 +4,9 @@
 ![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white)
+![](https://komarev.com/ghpvc/?username=reslava&color=orange)
 
 ## Hi there, I am Rafa Eslava 👋
-![](https://komarev.com/ghpvc/?username=reslava&color=orange)
 
 - 🔭 I’m currently working on [REslava.Result](https://github.com/reslava/nuget-package-reslava-result) 
 (nuget package result pattern + ASP.NET integration with SmartEndpoints, fast APIs, no boilerplate)
