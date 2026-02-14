@@ -19,7 +19,7 @@
 |---|---|
 | Learning | 🌱 Functional programming, Roslyn source generators & analyzers, and AI |
 | Collaboration | 👯 Looking to collaborate on useful ideas or projects |
-| Experience | 🎮 Developed several 3D Android/HTML games using Unity |
+| Videogames | 🎮 Developed several 3D Android/HTML games using Unity |
 | Contact | 📫 rafeslava@hotmail.com |
 | Fun Fact | 🎸 Real passion is playing the guitar ;-) |
 
