@@ -4,7 +4,6 @@
 ![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white)
-![](https://komarev.com/ghpvc/?username=reslava&color=orange)
 
 ## Hi there, I am Rafa Eslava 👋
 
