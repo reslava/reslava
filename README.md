@@ -1,5 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:FFBB00,100:FF3300&text=%20Rafa%20Eslava,%20hi%20there👋&reversal=false&animation=fadeIn&textBg=false&rotate=0&fontAlignY=37" width="100%" alt="header"/>
+  <!--img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:f85149,100:cf222e&text=%20Rafa%20Eslava,%20hi%20there👋&reversal=false&animation=fadeIn&textBg=false&rotate=0&fontAlignY=37" width="100%" alt="header"/-->
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
