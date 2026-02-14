@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:FFBB00,100:FF3300&text=%20Rafa%20Eslava,%20hi%20there👋&reversal=false&animation=fadeIn&textBg=false&rotate=0&fontAlignY=40" width="100%" alt="header"/>
+</p>
+
 ![](https://img.shields.io/badge/-512BD4?logo=dotnet&logoColor=white)
 ![](https://img.shields.io/badge/C%23-239120?&logo=csharp&logoColor=white)
 ![](https://img.shields.io/badge/Unity-black?logo=unity&logoColor=white)
@@ -5,8 +9,6 @@
 ![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white)
 ![](https://komarev.com/ghpvc/?username=reslava&color=orange)
-
-## Hi there, I am Rafa Eslava 👋
 
 | Category | Details |
 |---------|--------|
