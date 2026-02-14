@@ -4,15 +4,17 @@
 ![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white)
+![](https://komarev.com/ghpvc/?username=reslava&color=orange)
 
 ## Hi there, I am Rafa Eslava 👋
 
-- 🔭 I’m currently working on [REslava.Result](https://github.com/reslava/nuget-package-reslava-result) 
-(nuget package result pattern + ASP.NET integration with SmartEndpoints, fast APIs, no boilerplate)
+| Category | Details |
+|---------|--------|
+| Currently working | 🔭 [REslava.Result](https://github.com/reslava/nuget-package-reslava-result) nuget package result pattern + ASP.NET integration with SmartEndpoints, fast APIs, no boilerplate |
+| Learning | 🌱 Functional programming, Roslyn source generators & analyzers, and AI |
+| Collaboration | 👯 Looking to collaborate on useful ideas or projects |
+| Experience | 🎮 Developed several 3D Android/HTML games using Unity |
+| Contact | 📫 rafeslava@hotmail.com |
+| Fun Fact | 🎸 Real passion is playing the guitar ;-) |
 
-[![REslava.Result nuget package library implementing result pattern with SmartEndpoints](https://img.shields.io/badge/REslava.Result-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/yqyDwVNvH0c)
-- 🌱 I'm currently learning functional programming, Roslyn source generators & analyzers, and AI
-- 👯 I'm looking to collaborate on any useful ideas or projects
-- 🎮 I've developed several 3D Android/HTML games using Unity
-- 📫 How to reach me: rafeslava@hotmail.com
-- ⚡ Fun fact: my real passion is actually playing the guitar ;-)
+<!-- [![REslava.Result nuget package library implementing result pattern with SmartEndpoints](https://img.shields.io/badge/REslava.Result-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/yqyDwVNvH0c) -->
