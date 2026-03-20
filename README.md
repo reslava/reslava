@@ -4,7 +4,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=net,vscode,cs,unity,py,git,github,githubactions,docker,kubernetes" />
+    <img src="https://skillicons.dev/icons?i=net,vscode,cs,unity,cpp,py,git,github,githubactions,docker,kubernetes" />
   </a>  
 </p>
 
@@ -13,8 +13,8 @@
 | Learning | 🌱 Functional programming, Roslyn source generators & analyzers, and AI |
 | Collaboration | 👯 Looking to collaborate on useful ideas or projects |
 | Videogames | 🎮 Developed several 3D Android/HTML games using Unity |
-| Contact | 📫 rafeslava@hotmail.com |
-| Fun Fact | 🎸 Real passion is playing the guitar ;-) |
+| Contact | 📫 [LinkedIn](https://www.linkedin.com/in/rafeslava/) |
+| Fun Fact | 🎸 My real passion is playing the guitar ;-) |
 
 <div align="center">
   
