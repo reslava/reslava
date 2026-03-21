@@ -8,7 +8,7 @@
   </a>  
 </p>
 
-| Currently working | 🔭 [REslava.Result](https://github.com/reslava/nuget-package-reslava-result) nuget package result pattern + ASP.NET integration with SmartEndpoints, no boilerplate |
+| Currently working | 🔭 [REslava.Result](https://github.com/reslava/nuget-package-reslava-result) Visual Result pipelines for .NET + ASP.NET integration with SmartEndpoints</br>Don't try to understand the pipeline—watch the flow |
 |---|---|
 | Learning | 🌱 Functional programming, Roslyn source generators & analyzers, and AI |
 | Collaboration | 👯 Looking to collaborate on new, innovative, interesting, and useful ideas |
