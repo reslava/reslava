@@ -11,7 +11,7 @@
 | Currently working | 🔭 [REslava.Result](https://github.com/reslava/nuget-package-reslava-result) nuget package result pattern + ASP.NET integration with SmartEndpoints, no boilerplate |
 |---|---|
 | Learning | 🌱 Functional programming, Roslyn source generators & analyzers, and AI |
-| Collaboration | 👯 Looking to collaborate on useful ideas or projects |
+| Collaboration | 👯 Looking to collaborate on new, innovative, interesting, and useful ideas |
 | Videogames | 🎮 Developed several 3D Android/HTML games using Unity |
 | Contact | 📫 [LinkedIn](https://www.linkedin.com/in/rafeslava/) |
 | Fun Fact | 🎸 My real passion is playing the guitar ;-) |
