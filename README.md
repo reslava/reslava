@@ -8,9 +8,10 @@
   </a>  
 </p>
 
-| Currently working | 🔭 [REslava.Result](https://github.com/reslava/nuget-package-reslava-result) Visual Result pipelines for .NET + ASP.NET integration with SmartEndpoints</br>Don't try to understand the pipeline—watch the flow |
+| Currently working | 🧵[Loom](https://github.com/reslava/loom) stateful AI to weave ideas, design, plans |
 |---|---|
-| Learning | 🌱 Functional programming, Roslyn source generators & analyzers, and AI |
+| Previously | 🔭 [REslava.Result](https://github.com/reslava/nuget-package-reslava-result) Visual Result pipelines for .NET + ASP.NET integration with SmartEndpoints</br>Don't try to understand the pipeline—watch the flow |
+| Learning | 🌱 MCP Servers, Agents, Functional programming, Roslyn source generators & analyzers |
 | Collaboration | 👯 Looking to collaborate on new, innovative, interesting, and useful ideas |
 | Videogames | 🎮 Developed several 3D Android/HTML games using Unity |
 | Contact | 📫 [LinkedIn](https://www.linkedin.com/in/rafeslava/) |
