@@ -9,6 +9,7 @@
 </p>
 
 | Currently working | 🧵[Loom](https://github.com/reslava/loom) Document-native workflow for AI-assisted development. Loom gives AI agents structured, scoped, persistent context — so every session is as sharp as the first |
+|  | 🎸[ChordFlpw](https://github.com/reslava/chord-flow) Rhythm & Progression Trainer for Guitar |
 |---|---|
 | Previously | 🔭 [REslava.Result](https://github.com/reslava/nuget-package-reslava-result) Visual Result pipelines for .NET + ASP.NET integration with SmartEndpoints</br>Don't try to understand the pipeline—watch the flow |
 | Learning | 🌱 MCP Servers, Agents, Functional programming, Roslyn source generators & analyzers |
